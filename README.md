@@ -10,25 +10,19 @@ I am a passionate developer student currently pursuing my education in Computer 
 
 - Description: A simple calculator with a user interface for basic mathematical operations.
 - Technologies Used: Javascript.
-- GitHub Repository: ....
+- GitHub Repository: https://github.com/sanaelhajri/Calculator.git
 
 ### Project 2: Clock
 
 - Description:  Design a digital or analog clock that displays the current time in real-time.
 - Technologies Used: C language.
-- GitHub Repository: ....
+- GitHub Repository: https://github.com/sanaelhajri/clock.git
 
 ### Project 3: Task List
 
 - Description:  A task list application that allows users to add, delete, and update tasks.
 - Technologies Used: Javascript.
-- GitHub Repository: .....
-
-- ### Project 4: Guessing Game
-
-- Description: A guessing game where users have to guess a randomly generated word or number by the computer.
-- Technologies Used: Python.
-- GitHub Repository: ....
+- GitHub Repository: https://github.com/sanaelhajri/Task-List.git
 
 
 ## Skills
